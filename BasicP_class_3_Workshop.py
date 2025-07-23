@@ -30,4 +30,4 @@ while True:
         if monster == 0:
              break
         else:
-            print("เริ่มใหม่ไป")  
+            print("ไปเริ่มใหม่ไป")  
